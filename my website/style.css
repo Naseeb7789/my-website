@@ -1,0 +1,44 @@
+
+body
+{
+    background-image:url(background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container{
+border:0  solid aqua;
+
+}
+.container fluid{
+border:0  solid aqua;
+
+
+}
+
+.row{
+border: 3px solid white;
+background-color:black;
+color:white;
+}
+.col,.col-6,.col-3,.col-4{
+border: 10px solid black;
+background-color:white;
+color:black;
+
+}
+.col-12{
+background-color: black;
+border:2px solid white;
+color:white;
+}
+.col-8
+{
+background-color: white;
+color:blue;
+border:2px solid black;
+color:black;
+}
+.button{
+font-size:10px;
+}
+
